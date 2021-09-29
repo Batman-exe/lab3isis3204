@@ -4,7 +4,7 @@
 
 1. Descargar el repositorio
 2. Crear la carpeta archivo dentro del proyecto
-3. En la carpeta archivo crear 2 archivos de prueba, de 100 y 250 mb de nombres pr100.txt y pr250.txt respectivamente (cambiar las extensiones a .txt de ser necesario). Puede encontrar informacioon de como crear archivos en las sigueintes páginas:
+3. En la carpeta archivo crear 2 archivos de prueba, de 100 y 250 mb de nombres pr100.txt y pr250.txt respectivamente (cambiar las extensiones  de los archivos a .txt). Puede encontrar informacioon de como crear archivos en las sigueintes páginas:
 
     Linux y Windows: https://www.web-workers.ch/index.php/2017/06/23/how-to-create-a-1gb-100mb-10mb-file-for-testing/ 
     
